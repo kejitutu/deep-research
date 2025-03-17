@@ -26,9 +26,9 @@ function Home() {
         <FinalReport />
       </main>
       <footer className="my-4 text-center text-sm text-gray-600">
-        <a href="https://github.com/u14app/" target="_blank">
+        <a href="https://github.com/" target="_blank">
           {t("copyright", {
-            name: "U14App",
+            name: "acu",
           })}
         </a>
       </footer>
