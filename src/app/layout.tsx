@@ -9,7 +9,7 @@ import "./globals.css";
 const HEAD_SCRIPTS = process.env.HEAD_SCRIPTS as string;
 
 export const metadata: Metadata = {
-  title: "Deep Research",
+  title: "Deep Search Tool",
   description: "Deep Rssearch with Google Gemini Models",
   icons: {
     icon: {
